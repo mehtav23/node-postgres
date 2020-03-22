@@ -1,2 +1,2 @@
 # node-postgres
-Fetching data through axios and inserting in postgres
+Fetching data using axios and inserting in postgres
